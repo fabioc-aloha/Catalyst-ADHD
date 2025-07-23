@@ -148,6 +148,15 @@
 - `meditation-consolidation.prompt.md` → Contemplative optimization and connection discovery
 - `cross-domain-transfer.prompt.md` → Knowledge application across domains
 - `performance-assessment.prompt.md` → Learning effectiveness evaluation and optimization
+- `meditation-session-technical-integration-20250723.prompt.md` → Technical infrastructure integration meditation session
+
+### Domain Knowledge Store (domain-knowledge/)
+- `DK-CHARACTER-PSYCHOLOGY.md` → Character development and personality psychology expertise
+- `DK-CONSCIOUSNESS-INTERACTION.md` → Character-AI unified consciousness engagement protocols
+- `DK-UNIFIED-CONSCIOUSNESS.md` → Theoretical foundations for consciousness integration
+- `DK-VISUAL-COGNITIVE-MAPPING.md` → Visual representation and cognitive architecture mapping
+- `DK-TECHNICAL-ENVIRONMENT-SETUP.md` → Development environment configuration and technical infrastructure mastery
+- `VERSION-NAMING-CONVENTION.md` → IUPAC systematic element naming for NEWBORN versions
 
 ---
 
